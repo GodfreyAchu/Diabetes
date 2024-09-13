@@ -7,7 +7,7 @@ The condition can develop in anyone who has type 1 or type 2 diabetes. The longe
 
 
 This project maily focuses on identifying the case and classify if the patient has the disease or not.
-We use OpenCV technique to classify the images accordingly. Has two image file train_1 for trainign the model and test_1 fiel for testing the model.
+We use OpenCV technique to classify the images accordingly. Has two image file 'train_1' for trainign the model and 'test_1' fiel for testing the model.
 
 2.Diabetic Identification (Diabetic.ipynb)
 
